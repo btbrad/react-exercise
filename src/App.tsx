@@ -1,10 +1,12 @@
 import './App.css'
-import First from './pages/01/index'
+// import One from './pages/01/index'
+import Two from './pages/02/index'
 
 function App() {
   return (
     <>
-      <First />
+      {/* <One /> */}
+      <Two />
     </>
   )
 }
